@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145e27441b44d9a4387447d41d28040e, type: 3}
+  m_Name: UnitTiier3
+  m_EditorClassIdentifier: 
+  MoveSpeed: 0.05
+  Damage: 100
+  Health: 250
+  AttackDelay: 1
+  ScoreCost: 50
+  SoundAttack: {fileID: 8300000, guid: 83ade3a7e671d344a8173060d5873782, type: 3}
+  SoundDeath: {fileID: 8300000, guid: b983530041d61c844bfa17d8d68717ee, type: 3}
+  SoundGotDamage: {fileID: 8300000, guid: e492d5eaa1f706741a941e10028f70b5, type: 3}
